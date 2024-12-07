@@ -11,6 +11,8 @@ steps followed -
 5. add LICENCE file
 6. add gitignore file
 7. add init_setup.sh (shell script) file
-8. create virtual environment 
+     create virtual environment 
+8. add templete.py (python script) file
+     contains project structure
 9. corrections as needed
 ```
