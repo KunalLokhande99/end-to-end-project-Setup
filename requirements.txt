@@ -2,6 +2,6 @@ pandas
 scikit-learn
 numpy
 
-# this code is used to install local packege 
+# this code is used to install local packege
 # HYPEN_E_SPACE_DOT
 -e .
