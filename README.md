@@ -1,5 +1,5 @@
 ```
-end to end project setup using vs code, git bash and shellscript
+end to end project setup using vs code, git bash and shellscript and python.
 ```
 ```
 steps followed -
@@ -10,9 +10,15 @@ steps followed -
 4. add README.md file
 5. add LICENCE file
 6. add gitignore file
+
 7. add init_setup.sh (shell script) file
      create virtual environment 
+
 8. add templete.py (python script) file
      contains project structure
-9. corrections as needed
+
+9. add or modify setup.py file
+     install local package
+
+10. modifications according to scenarios.
 ```
