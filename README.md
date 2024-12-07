@@ -3,9 +3,7 @@ end to end project setup using vs code, git bash and shellscript
 ```
 ```
 steps followed are
-```
 
-```
 1. create specific folder
 2. setup the vs code
 3. setup the gitbash and github
