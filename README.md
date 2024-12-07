@@ -1,5 +1,5 @@
 ```
-end to end project setup using vs code, git bash and shellscript and python.
+end to end project setup using vs code, git bash, shellscript and python.
 ```
 ```
 steps followed -
