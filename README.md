@@ -8,8 +8,10 @@ steps followed -
 2. setup the vs code
 3. setup the gitbash and github
 4. add README.md file
-5. add LICENCE file
-6. add gitignore file
+5. add gitignore file
+
+6. add LICENCE file
+     MIT Licence
 
 7. add init_setup.sh (shell script) file
      create virtual environment 
