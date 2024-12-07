@@ -2,7 +2,7 @@
 end to end project setup using vs code, git bash and shellscript
 ```
 ```
-steps followed are
+steps followed -
 
 1. create specific folder
 2. setup the vs code
